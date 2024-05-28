@@ -1,16 +1,16 @@
-## Hi there 👋
+# Boas vindas ao meu perfil 👽
 
-<!--
-**WesleyTiepo/WesleyTiepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Wesley Tiepo
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br/)
+- Estou me desenvolvendo na linguagem Java Script
+- Utilizo este espaçõ para organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Você pode entrar em contato comigo 📬
+
+wesleytiepo@prof.educacao.sp.gov.br
+
+@Wesley_Tiepo
+
+![image](https://github.com/WesleyTiepo/Wesley-Tiepo/assets/161245763/30a62500-d0af-4c83-85c6-05b107752611)
