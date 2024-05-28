@@ -13,4 +13,4 @@ wesleytiepo@prof.educacao.sp.gov.br
 
 @Wesley_Tiepo
 
-![image](https://github.com/WesleyTiepo/Wesley-Tiepo/assets/161245763/30a62500-d0af-4c83-85c6-05b107752611)
+![](https://media1.tenor.com/m/XMaH7LQL7Q8AAAAC/rainbow-peace.gif)
